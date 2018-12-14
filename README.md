@@ -1,2 +1,2 @@
-# KATU-BTSP
+# METU-BTSP
 BTSP Bitirme Projem

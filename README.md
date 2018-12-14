@@ -11,4 +11,4 @@ Bu firmalarda Merchandiser(Saha Personeli), Raporting, Supervizor ve ekip liderl
 
 Buraya SPV arkadaşların iş yüklerini hafifletecek, yaptıkları çalışmaları raporlayan arkadaşların işini kolaylaştıracak bir program koyayım. Belki bir gün birilerine lazım olur :)
 
-ekrem
+ESen
